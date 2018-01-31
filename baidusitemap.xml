@@ -4,6 +4,35 @@
 
     
   <url>
+    <loc>https://yansongsongsong.github.io/paxos/</loc>
+    <lastmod>2018-01-31T19:38:19.684Z</lastmod>
+    <data>
+        <display>
+        <title>paxos</title>
+        <pubTime>2018-01-31T19:18:46.000Z</pubTime>
+        
+        <tag>algorithm</tag>
+         
+        <tag>算法</tag>
+         
+        <tag>分布式一致性</tag>
+         
+        <tag>paxos</tag>
+         
+         
+           
+             
+              <breadCrumb title="论文" url="https://yansongsongsong.github.io/categories/%E8%AE%BA%E6%96%87/"/>
+          
+             
+              <breadCrumb title="paxos" url="https://yansongsongsong.github.io/categories/%E8%AE%BA%E6%96%87/paxos/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>https://yansongsongsong.github.io/Init/</loc>
     <lastmod>2018-01-31T18:33:20.809Z</lastmod>
     <data>
