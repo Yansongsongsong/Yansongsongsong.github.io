@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://yansongsongsong.github.io/"/>
-  <updated>2018-01-31T17:34:13.973Z</updated>
+  <updated>2018-01-31T18:33:20.809Z</updated>
   <id>https://yansongsongsong.github.io/</id>
   
   <author>
@@ -21,18 +21,13 @@
     <link href="https://yansongsongsong.github.io/2018/02/01/Init/"/>
     <id>https://yansongsongsong.github.io/2018/02/01/Init/</id>
     <published>2018-01-31T17:23:53.000Z</published>
-    <updated>2018-01-31T17:34:13.973Z</updated>
+    <updated>2018-01-31T18:33:20.809Z</updated>
     
     <summary type="html">
     
-      
-      
-        
-        
-          &lt;h2 id=&quot;为什么要有这个博客&quot;&gt;&lt;a href=&quot;#为什么要有这个博客&quot; class=&quot;headerlink&quot; title=&quot;为什么要有这个博客&quot;&gt;&lt;/a&gt;为什么要有这个博客&lt;/h2&gt;&lt;p&gt;这个人很懒，有空再补。&lt;/p&gt;
-&lt;h2 id=&quot;这个博客会写些什么&quot;&gt;&lt;a
-        
-      
+      &lt;blockquote&gt;
+&lt;p&gt;这是一篇自述，讲述这个博客的构建的原因。&lt;/p&gt;
+&lt;/blockquote&gt;
     
     </summary>
     
@@ -52,17 +47,11 @@
     <link href="https://yansongsongsong.github.io/2018/01/31/hello-world/"/>
     <id>https://yansongsongsong.github.io/2018/01/31/hello-world/</id>
     <published>2018-01-31T08:19:45.518Z</published>
-    <updated>2018-01-31T17:28:11.097Z</updated>
+    <updated>2018-01-31T18:32:24.068Z</updated>
     
     <summary type="html">
     
-      
-      
-        
-        
-          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
-        
-      
+      &lt;p&gt;这是Hexo自动生成的一篇文章，我用来记录一下Hexo常用的一些命令，和写作过程中需要注意的一些格式。&lt;/p&gt;
     
     </summary>
     
