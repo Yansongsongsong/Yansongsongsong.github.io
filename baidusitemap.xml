@@ -4,6 +4,21 @@
 
     
   <url>
+    <loc>https://yansongsongsong.github.io/hello-world/</loc>
+    <lastmod>2018-01-31T19:39:55.285Z</lastmod>
+    <data>
+        <display>
+        <title>Hello World</title>
+        <pubTime>2018-01-31T08:19:45.518Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>https://yansongsongsong.github.io/paxos/</loc>
     <lastmod>2018-01-31T19:38:19.684Z</lastmod>
     <data>
@@ -52,21 +67,6 @@
              
               <breadCrumb title="博客" url="https://yansongsongsong.github.io/categories/%E8%87%AA%E6%88%91%E4%BB%8B%E7%BB%8D/%E5%8D%9A%E5%AE%A2/"/>
           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>https://yansongsongsong.github.io/hello-world/</loc>
-    <lastmod>2018-01-31T18:32:24.068Z</lastmod>
-    <data>
-        <display>
-        <title>Hello World</title>
-        <pubTime>2018-01-31T08:19:45.518Z</pubTime>
-        
-         
-           
         </display>
     </data>
     </url>

@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://yansongsongsong.github.io/hello-world/</loc>
+    
+    <lastmod>2018-01-31T19:39:55.285Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://yansongsongsong.github.io/paxos/</loc>
     
     <lastmod>2018-01-31T19:38:19.684Z</lastmod>
@@ -12,13 +19,6 @@
     <loc>https://yansongsongsong.github.io/Init/</loc>
     
     <lastmod>2018-01-31T18:33:20.809Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://yansongsongsong.github.io/hello-world/</loc>
-    
-    <lastmod>2018-01-31T18:32:24.068Z</lastmod>
     
   </url>
   
