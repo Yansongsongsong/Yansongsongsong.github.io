@@ -1,0 +1,44 @@
+{"frames": {
+
+"heart0.png":
+{
+	"frame": {"x":382,"y":1,"w":147,"h":119},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":147,"h":119},
+	"sourceSize": {"w":147,"h":119}
+},
+"heart1.png":
+{
+	"frame": {"x":1,"y":1,"w":142,"h":124},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":142,"h":124},
+	"sourceSize": {"w":142,"h":124}
+},
+"heart2.png":
+{
+	"frame": {"x":254,"y":1,"w":126,"h":121},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":126,"h":121},
+	"sourceSize": {"w":126,"h":121}
+},
+"heart3.png":
+{
+	"frame": {"x":145,"y":1,"w":107,"h":123},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":3,"w":107,"h":123},
+	"sourceSize": {"w":125,"h":129}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "heart.png",
+	"format": "RGBA8888",
+	"size": {"w":530,"h":126},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:f33f9f544858350fb14f2362f94b1df8:8be41b48c10d90cd773e8d0b28839520:cb39580ce6d86b4835ef90f0a2df983e$"
+}
+}

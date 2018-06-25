@@ -1,0 +1,60 @@
+{"frames": {
+
+"0.png":
+{
+	"frame": {"x":1,"y":1,"w":91,"h":79},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":91,"h":79},
+	"sourceSize": {"w":91,"h":79}
+},
+"1.png":
+{
+	"frame": {"x":94,"y":1,"w":137,"h":122},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":137,"h":122},
+	"sourceSize": {"w":137,"h":122}
+},
+"2.png":
+{
+	"frame": {"x":495,"y":1,"w":137,"h":131},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":137,"h":131},
+	"sourceSize": {"w":137,"h":131}
+},
+"3.png":
+{
+	"frame": {"x":634,"y":1,"w":126,"h":131},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":126,"h":131},
+	"sourceSize": {"w":126,"h":131}
+},
+"4.png":
+{
+	"frame": {"x":360,"y":1,"w":133,"h":130},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":133,"h":130},
+	"sourceSize": {"w":133,"h":130}
+},
+"5.png":
+{
+	"frame": {"x":233,"y":1,"w":125,"h":129},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":125,"h":129},
+	"sourceSize": {"w":125,"h":129}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "PowerOfThor.png",
+	"format": "RGBA8888",
+	"size": {"w":761,"h":133},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:35cd7eefe94fdc0c8f9a63b755cec477:b0c5f2963bdec4c6f57da5ee0510a269:49f1dc9473e3c7c1ef2b331f2d14ad6a$"
+}
+}
