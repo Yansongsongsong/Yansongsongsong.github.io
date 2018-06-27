@@ -1,0 +1,44 @@
+{"frames": {
+
+"0.png":
+{
+	"frame": {"x":0,"y":0,"w":167,"h":156},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":167,"h":156},
+	"sourceSize": {"w":167,"h":156}
+},
+"1.png":
+{
+	"frame": {"x":167,"y":0,"w":166,"h":156},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":166,"h":156},
+	"sourceSize": {"w":166,"h":156}
+},
+"2.png":
+{
+	"frame": {"x":333,"y":0,"w":166,"h":156},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":166,"h":156},
+	"sourceSize": {"w":166,"h":156}
+},
+"3.png":
+{
+	"frame": {"x":499,"y":0,"w":166,"h":156},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":166,"h":156},
+	"sourceSize": {"w":166,"h":156}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "candle.png",
+	"format": "RGBA8888",
+	"size": {"w":665,"h":156},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:941e265660ec626317ab0c0ba68ad8b0:4fa89867ceb5055ecb98cfb11d297e34:e23c845f2b50887dd2a26eb66aa2c999$"
+}
+}
